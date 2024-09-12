@@ -8,7 +8,7 @@ Este repositório foi criado para compartilhar alguns dos meus projetos e materi
 
 👋 Olá! Eu sou o Marco Damo, entusiasta de **DevOps**, apaixonado por engenharia de requisitos e metodologias ágeis. Atualmente, estou focado em projetos de automação, sistemas distribuídos e boas práticas de CI/CD.
 
-- 💼 **[LinkedIn](https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/marco-antonio-damo/))**: Fique à vontade para conectar-se comigo!
+- 💼 **[LinkedIn](https://www.linkedin.com/in/seu-perfil/)**: Fique à vontade para conectar-se comigo!
 
 ---
 
@@ -43,8 +43,5 @@ Adoraria receber feedback ou colaborações! Se quiser contribuir com algum dos 
 Se quiser conversar sobre tecnologia, aprender mais sobre os meus projetos ou colaborar, entre em contato:
 
 - **Email**: marco_damo@hotmail.com
-- **LinkedIn**: [Seu Perfil no LinkedIn]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/marco-antonio-damo/))
+- **LinkedIn**: [Marco Damo](https://www.linkedin.com/in/marco-antonio-damo/)
 
----
-
-Feito com ❤️ por [Seu Nome](https://www.linkedin.com/in/seu-perfil/)
