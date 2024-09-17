@@ -54,8 +54,5 @@ Embora não tenha sido o foco da aula, vale mencionar o **Error Budget**, que es
 
 ## Compute Offerings da Azure
 
-Além dos conceitos de SLA, SLO e SLI, a aula também abordou algumas ofertas de computação da Azure, com um foco na criação de **Máquinas Virtuais (VMs)** e na familiarização com a interface da plataforma.
+Além dos conceitos de SLA, a aula também abordou algumas ofertas de computação da Azure, com um foco na criação de **Máquinas Virtuais (VMs)** e na familiarização com a interface da plataforma.
 
----
-
-Espero que esse resumo tenha ajudado a esclarecer a importância do SLA e seus componentes para garantir a confiabilidade dos serviços em nuvem, especialmente no contexto de **SRE**.
